@@ -1,0 +1,75 @@
+name: b_store
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+#--------------------- Packages --------------------#
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Utility Packages
+  image_picker: ^1.2.0
+  cached_network_image: ^3.4.1
+  mask_text_input_formatter: ^2.9.0
+
+  # Firebase Packages
+  firebase_core: ^4.1.0
+  firebase_auth: ^6.0.2
+  cloud_firestore: ^6.0.1
+  firebase_storage: ^13.0.1
+
+  # UI
+  cupertino_icons: ^1.0.6
+  iconsax: ^0.0.8
+  google_fonts: ^6.3.1
+  page_transition: ^2.2.1
+  flutter_animate: ^4.5.2
+
+  # Localization
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2
+  easy_localization: ^3.0.8
+
+  # Preferences
+  shared_preferences: ^2.5.3
+
+#------------------ ./Packages ------------------#
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  #---------------------- Local Assets ---------------------#
+  assets:
+    - assets/images/
+    - assets/fonts/
+    - assets/icons/
+    - assets/logos/
+    - assets/translations/
+
+  #---------------------- Custom Fonts ---------------------#
+  fonts:
+    - family: Suwannaphum
+      fonts:
+        - asset: assets/fonts/Suwannaphum-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/Suwannaphum-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Suwannaphum-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Suwannaphum-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Suwannaphum-Black.ttf
+          weight: 900

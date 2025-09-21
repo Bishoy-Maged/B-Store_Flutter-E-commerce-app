@@ -1,0 +1,76 @@
+{
+    "welcome_title": "مرحبًا بك في B-Store",
+    "welcome_subtitle": "اكتشف منتجات عالية الجودة بأفضل الأسعار. تسوّق بذكاء اليوم.",
+    "create_account": "إنشاء حساب",
+    "i_have_account": "لدي حساب بالفعل",
+    "switch_to_english": "التبديل إلى الإنجليزية",
+    "switch_to_arabic": "التبديل إلى العربية",
+  
+    "sign_up": "إنشاء حساب",
+    "sign_in": "تسجيل الدخول",
+    "login": "تسجيل الدخول",
+    "first_name": "الاسم الأول",
+    "last_name": "اسم العائلة",
+    "email_address": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirm_password": "تأكيد كلمة المرور",
+    "phone_number": "رقم الهاتف",
+    "address": "البلد/العنوان",
+    "role": "الدور",
+    "admin": "مشرف",
+    "user": "مستخدم",
+    "sign_up_button": "تسجيل",
+    "login_button": "تسجيل الدخول",
+  
+    "first_name_required": "لا يمكن أن يكون الاسم الأول فارغًا",
+    "last_name_required": "لا يمكن أن يكون اسم العائلة فارغًا",
+    "email_required": "لا يمكن أن يكون البريد الإلكتروني فارغًا",
+    "password_required": "لا يمكن أن تكون كلمة المرور فارغة",
+    "password_min": "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل",
+    "phone_required": "لا يمكن أن يكون رقم الهاتف فارغًا",
+    "address_required": "لا يمكن أن يكون البلد/العنوان فارغًا",
+    "role_required": "يجب اختيار الدور",
+    "confirm_password_not_match": "كلمتا المرور غير متطابقتين",
+
+  
+    "request_timed_out": "انتهت المهلة. تحقق من اتصالك.",
+    "authentication_failed": "فشل المصادقة",
+    "database_error": "خطأ في قاعدة البيانات",
+    "unexpected_error": "خطأ غير متوقع: {error}",
+  
+    "already_have_account": "هل لديك حساب بالفعل؟",
+    "dont_have_account": "ليس لديك حساب؟",
+    "error": "خطأ",
+    "ok": "حسناً",
+
+    "our_products": "منتجاتنا",
+    "no_products": "لا توجد منتجات متاحة",
+    "item_added_to_cart": "تمت إضافة العنصر إلى السلة",
+    "hot_offers": " العروض الساخنة",
+    "error_loading_products": "خطأ في تحميل المنتجات: {error}",
+
+    "admin_dashboard": "لوحة المشرف",
+    "refresh": "تحديث",
+    "logout": "تسجيل الخروج",
+    "no_products_yet": "لا توجد منتجات بعد",
+    "tap_add_first_product": "اضغط زر + لإضافة أول منتج لك",
+    "featured": "مميز",
+    "no_category": "بدون فئة",
+    "quantity_label": "الكمية: {count}",
+    "add_to_featured": "إضافة إلى المميزة",
+    "remove_from_featured": "إزالة من المميزة",
+    "delete_product": "حذف المنتج",
+    "delete_confirmation": "هل أنت متأكد أنك تريد حذف \"{name}\"؟",
+    "cancel": "إلغاء",
+    "delete": "حذف",
+    "product_deleted_success": "تم حذف المنتج بنجاح",
+    "error_deleting_product": "خطأ أثناء حذف المنتج: {error}",
+    "product_added_to_featured": "تم إضافة المنتج إلى المميزة",
+    "product_removed_from_featured": "تمت إزالة المنتج من المميزة",
+    "error_updating_product": "خطأ أثناء تحديث المنتج: {error}",
+    "add_item": "إضافة عنصر"
+
+
+
+  }
+  
